@@ -1,0 +1,23 @@
+{
+  "name": "ncfb-connection-test",
+  "version": "1.0.0",
+  "description": "Simple sample server that mimics service responses for a few use cases.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncfbins-claycarpenter/ncfb-connection-test"
+  },
+  "author": "Clay Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncfbins-claycarpenter/ncfb-connection-test/issues"
+  },
+  "homepage": "https://github.com/ncfbins-claycarpenter/ncfb-connection-test",
+  "dependencies": {
+    "connect": "^3.3.5"
+  }
+}
